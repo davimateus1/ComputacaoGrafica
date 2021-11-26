@@ -16,6 +16,17 @@
 <h1></h1>
 
 <div>
+  <h3> 👩‍💻 Comandos </h3>
+  <p>• Ao clicar na tecla R do teclado, o sol rotaciona em torno do centro.  </p>
+  <p>• Ao clicar nas setas para cima, para baixo, para o lado direito e para o lado esquerdo, a casa translada no sentido da seta. </p>
+  <p>• Ao pressionar o botão esquerdo do mouse, a casa muda de cor.  </p>
+  <p>• Ao mexer na tecla A, a porta aumenta de acordo com o canto inferior esquerdo. </p>
+  <p>• Ao mexer na tecla D, o telhado diminui no eixo Y. </p>
+</div>
+
+<h1></h1>
+
+<div>
   <h3>✔️ Resultado Final </h3>
     <p align="center">
       <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/143592854-8628222f-f5df-4579-b69a-af578f70d214.png" width="40%">
