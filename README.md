@@ -29,6 +29,6 @@
 <div>
   <h3>✔️ Resultado Final </h3>
     <p align="center">
-      <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/143592854-8628222f-f5df-4579-b69a-af578f70d214.png" width="40%">
+      <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/144688488-7ec7baf4-075e-4d5d-8e9b-571edf585e92.png" width="40%">
     </p>
 </div>
